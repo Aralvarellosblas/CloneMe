@@ -8,6 +8,7 @@ public class PruebaColaboradores {
         // Listo para la prueba de colaboración.
         //Prueba de clonado realizada Juan.
         //Prueba correcta.
+        //hecho
     }
     
 }
