@@ -9,6 +9,7 @@ public class PruebaColaboradores {
         //Prueba de clonado realizada Juan.
         //Prueba correcta.
         //hecho
+        //comentario anterior realizado por jose
     }
     
 }
